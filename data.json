@@ -1,0 +1,26 @@
+[
+    {
+        "img": "https://www.dreamhost.com/academy/wp-content/uploads/2020/11/what-makes-a-good-website-750x498.jpg",
+        "name": "doctor portal",
+        "catagory": "bussiness",
+        "dec": "this is a amazine website "
+    },
+    {
+        "img": "https://www.dreamhost.com/academy/wp-content/uploads/2020/11/what-makes-a-good-website-750x498.jpg",
+        "name": "macanical bus",
+        "catagory": "bussiness",
+        "dec": "this is a amazine website "
+    },
+    {
+        "img": "https://www.dreamhost.com/academy/wp-content/uploads/2020/11/what-makes-a-good-website-750x498.jpg",
+        "name": "ecommerce website",
+        "catagory": "ecommerce",
+        "dec": "this is a amazine website "
+    },
+    {
+        "img": "https://www.dreamhost.com/academy/wp-content/uploads/2020/11/what-makes-a-good-website-750x498.jpg",
+        "name": "ecommerce ha",
+        "catagory": "ecommerce",
+        "dec": "this is a amazine website "
+    }
+]
